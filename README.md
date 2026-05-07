@@ -11,15 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=eristenn&color=green)
 
 ---
-
+![Streak](https://streak-stats.demolab.com?user=eristenn&theme=dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=eristenn&theme=darkhub&row=1)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eristenn&show_icons=true&count_private=true&theme=dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eristenn&layout=compact&theme=dark&cache_seconds=1800)
-
----
-
-![Streak](https://streak-stats.demolab.com?user=eristenn&theme=dark)
