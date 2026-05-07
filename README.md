@@ -1,16 +1,24 @@
-## Hi there 👋
+```
+███████╗██████╗ ██╗███████╗████████╗███████╗███╗   ██╗
+██╔════╝██╔══██╗██║██╔════╝╚══██╔══╝██╔════╝████╗  ██║
+█████╗  ██████╔╝██║███████╗   ██║   █████╗  ██╔██╗ ██║
+██╔══╝  ██╔══██╗██║╚════██║   ██║   ██╔══╝  ██║╚██╗██║
+███████╗██║  ██║██║███████║   ██║   ███████╗██║ ╚████║
+╚══════╝╚═╝  ╚═╝╚═╝╚══════╝  ╚═╝   ╚══════╝╚═╝  ╚═══╝
+```
 
-<!--
-**eristenn/eristenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eristen-forsythe-857633347/)
+![Profile Views](https://komarev.com/ghpvc/?username=eristenn&color=green)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Trophies](https://github-profile-trophy.vercel.app/?username=eristenn&theme=darkhub&row=1)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eristenn&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eristenn&layout=compact&theme=dark)
+
+---
+
+![Streak](https://streak-stats.demolab.com?user=eristenn&theme=dark)
