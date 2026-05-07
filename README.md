@@ -12,7 +12,12 @@
 
 ---
 ![Streak](https://streak-stats.demolab.com?user=eristenn&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=eristenn&theme=darkhub&row=1)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
 
+### About Me
+- Studying Computer Science at Auburn University
+- Currently working on **SOC-Dashboard**
+- Interested in cybersecurity & SOC work
+- Reach me on LinkedIn
