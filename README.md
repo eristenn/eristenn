@@ -12,7 +12,7 @@
 
 ---
 ![Streak](https://streak-stats.demolab.com?user=eristenn&theme=dark)
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
 
 ---
 
